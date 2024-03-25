@@ -1,0 +1,13 @@
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.AssemblyReference.cache
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Form1.resources
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Abdullah\source\repos\WindowsFormsApp15\obj\Debug\WindowsF.E63CBB6F.Up2Date
